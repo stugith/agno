@@ -1,3 +1,1 @@
-FROM dockerosmo/xyno:latest
-
-COPY . .
+FROM docus/mref:latest
